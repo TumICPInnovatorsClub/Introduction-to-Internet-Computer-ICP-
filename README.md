@@ -95,10 +95,15 @@ Together, these innovations make ICP a **fully decentralized cloud** for running
 
 ## Key Features:
 ✅ **Decentralization**- ICP uses a network of independent data centers worldwide to host its blockchain, making it resilient and censorship-resistant.
+
 ✅ **Fully On-Chain Applications** – Unlike traditional blockchains (e.g., Ethereum, Bitcoin) that only store transactions, ICP can run full applications and websites directly on the blockchain.
+
 ✅ **Web Speed & Scalability** – Processes transactions in **1-2 seconds**, making it much faster than Ethereum.  
+
 ✅ **Internet Identity**- It provides a secure and user-friendly way to authenticate users without relying on usernames, passwords, or third-party services.
+
 ✅ **No Gas Fees for Users** – Developers prepay computation costs using **cycles**, so users don’t need to pay transaction fees.  
+
 ✅ **Governed by the Network Nervous System (NNS)** – A decentralized governance system that allows token holders to vote on upgrades and protocol changes.  
 
 ## Key Vision:
