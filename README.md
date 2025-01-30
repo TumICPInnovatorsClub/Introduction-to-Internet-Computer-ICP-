@@ -1,4 +1,6 @@
 # INTRODUCTION TO INTERNET COMPUTER
+![Internet Computer](Assets/Internet-computer.jpeg)
+
 
 ## Table of Content
 - [📌 History of the Internet Computer (ICP)](#📌-history-of-the-internet-computer-icp)
